@@ -9,7 +9,7 @@ Professor: Dr. S. Johanan Joysingh
 
 ---
 
-> **Project explanation (parallel to the review PPT):** [`docs/PROJECT_EXPLAINER.md`](docs/PROJECT_EXPLAINER.md)
+> **Project explanation** [`docs/PROJECT_EXPLAINER.md`](docs/PROJECT_EXPLAINER.md)
 > **Research paper:** `docs/CHAIN-X_IEEE_Research_Paper.docx`
 
 ## What is CHAIN-X?

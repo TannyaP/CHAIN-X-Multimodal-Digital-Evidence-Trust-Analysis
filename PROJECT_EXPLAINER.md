@@ -1,6 +1,6 @@
 # CHAIN-X: Project Explanation
 
-*Companion to the review presentation. Course: Forensic Analytics (CSE4074), VIT Chennai, Fall 2026-27. Professor: Dr. S. Johanan Joysingh. Team: Arista Vania, Tannya Pasricha.*
+Course: Forensic Analytics (CSE4074), VIT Chennai, Fall 2026-27. Professor: Dr. S. Johanan Joysingh. Team: Arista Vania, Tannya Pasricha.*
 
 ## 1. The gap (problem statement)
 
